@@ -4,6 +4,9 @@ public class Test {
         System.out.println("User 2 menambahkan baris baru");
         System.out.println("User 3 menambahkan baris baru");
 
+        System.out.println("Halo, ini baris kode pertama yang dimodifikasi user 1");
+        System.out.println("User 1 menambah baris baru");
+
         System.out.println("Hai, ini baris kode pertama yang dimodifikasi user 2");
         System.out.println("User 2 menambah baris baru");
     }
